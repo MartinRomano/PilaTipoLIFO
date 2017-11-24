@@ -1,0 +1,7 @@
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\bin\Debug\ColeccionStack.exe.config
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\bin\Debug\ColeccionStack.exe
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\bin\Debug\ColeccionStack.pdb
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\obj\Debug\ColeccionStack.csprojResolveAssemblyReference.cache
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\obj\Debug\ColeccionStack.exe
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\obj\Debug\ColeccionStack.pdb
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ColeccionStack\ColeccionStack\obj\Debug\ColeccionStack.csproj.CoreCompileInputs.cache
